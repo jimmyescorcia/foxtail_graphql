@@ -1,0 +1,9 @@
+{
+  "extends": ["eslint:recommended"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error",
+    "react/display-name": [false],
+    "react/prop-types": [false]
+  }
+}
