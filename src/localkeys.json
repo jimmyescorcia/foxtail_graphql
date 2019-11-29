@@ -19,7 +19,7 @@
   "JWT_SECRET": "kdjfnvjkveojoi934inreojnerj",
   "MONGOHOST": "mongodb://localhost:27017/FoxtailTestDB",
   "NODE_ENV": "development",
-  "PORT": "4444",
+  "PORT": "80",
   "REDISHOST": "localhost",
   "REDISPORT": "6379",
   "REFRESH_TOKEN_EXPIRATION": "7d",
