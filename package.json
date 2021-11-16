@@ -24,7 +24,7 @@
   "dependencies": {
     "@sentry/node": "^5.7.1",
     "authorizenet": "^1.0.7",
-    "aws-sdk": "^2.551.0",
+    "aws-sdk": "^2.814.0",
     "babel-preset-env": "^1.7.0",
     "bcrypt-nodejs": "^0.0.3",
     "body-parser": "^1.19.0",
